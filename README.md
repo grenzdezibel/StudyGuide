@@ -21,7 +21,7 @@ Let me show you an example.
 Video Walkthrough
 -----------------
 
-<iframe src="https://onedrive.live.com/embed?cid=8D6C4317A39E3D29&resid=8D6C4317A39E3D29%2155674&authkey=AFzauuwLy7HXj-M" width="320" height="179" frameborder="0" scrolling="no" allowfullscreen sandbox="allow-scripts allow-pointer-lock allow-forms allow-same-origin"></iframe>
+https://github.com/grenzdezibel/StudyGuide/assets/141055591/582b1a0b-a7e5-46f4-98fd-07d17e3f887c
 
 Example 1: Obfuscating an executable with Ghostwriting.sh
 ---------------------------------------------------------
@@ -47,7 +47,7 @@ transfer the file to your victim machine.
 On your victim machine, open a web browser, and navigate to the ip address of your ADHD machine on port 8000.
 You should see two files.  Click to download "EveryVillainIsLemons.exe".
 
-![Downloads in Chrome](Ghostwriting.sh_files/downloads.PNG)
+![image](https://github.com/grenzdezibel/StudyGuide/blob/Ghostwriting.sh_files/downloads.png)
 
 Here is the moment of truth, depending on your AV this specific file may or may not be detected
 and block upon download (or later upon execution).  If you need to, go ahead and disable your AV's
